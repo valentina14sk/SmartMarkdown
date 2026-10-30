@@ -1,0 +1,930 @@
+day,product,event,quantity,discount_pct,unit_price
+0,Milk,arrival,24,0.0,48.0
+0,Milk,sale,15,0.0,48.0
+0,Yogurt,arrival,18,0.0,30.0
+0,Yogurt,sale,12,0.0,30.0
+0,Cheese,arrival,9,0.0,80.0
+0,Cheese,sale,2,0.0,80.0
+0,Butter,arrival,7,0.0,60.0
+0,Butter,sale,7,0.0,60.0
+0,Cream,arrival,8,0.0,38.0
+0,Cream,sale,2,0.0,38.0
+0,White Bread,arrival,28,0.0,30.0
+0,White Bread,sale,16,0.0,30.0
+0,Brown Bread,arrival,13,0.0,36.0
+0,Brown Bread,sale,7,0.0,36.0
+0,Croissant,arrival,11,0.0,35.0
+0,Croissant,sale,9,0.0,35.0
+0,Muffin,arrival,12,0.0,28.0
+0,Muffin,sale,2,0.0,28.0
+0,Bagel,arrival,10,0.0,27.0
+0,Bagel,sale,7,0.0,27.0
+0,Tomato,arrival,33,0.0,22.0
+0,Tomato,sale,17,0.0,22.0
+0,Spinach,arrival,16,0.0,20.0
+0,Spinach,sale,8,0.0,20.0
+0,Lettuce,arrival,14,0.0,25.0
+0,Lettuce,sale,5,0.0,25.0
+0,Banana,arrival,26,0.0,32.0
+0,Banana,sale,14,0.0,32.0
+0,Strawberry,arrival,13,0.0,45.0
+0,Strawberry,sale,5,0.0,45.0
+0,Sandwich,arrival,9,0.0,55.0
+0,Sandwich,sale,4,0.0,55.0
+0,Fresh Salad,arrival,10,0.0,50.0
+0,Fresh Salad,sale,4,0.0,50.0
+0,Fresh Juice,arrival,14,0.0,38.0
+0,Fresh Juice,sale,7,0.0,38.0
+0,Cut Fruit,arrival,10,0.0,42.0
+0,Cut Fruit,sale,5,0.0,42.0
+0,Pasta Meal,arrival,7,0.0,52.0
+0,Pasta Meal,sale,4,0.0,52.0
+1,Milk,sale,9,0.0,48.0
+1,Yogurt,sale,5,0.0,30.0
+1,Cheese,sale,2,0.0,80.0
+1,Cream,sale,6,0.0,38.0
+1,White Bread,sale,12,0.0,30.0
+1,Brown Bread,sale,6,0.0,36.0
+1,Croissant,sale,2,0.0,35.0
+1,Muffin,sale,7,0.0,28.0
+1,Bagel,sale,3,0.0,27.0
+1,Tomato,sale,13,0.0,22.0
+1,Spinach,sale,8,0.0,20.0
+1,Lettuce,sale,9,0.0,25.0
+1,Banana,sale,12,0.0,32.0
+1,Strawberry,sale,5,0.0,45.0
+1,Sandwich,sale,5,0.0,55.0
+1,Fresh Salad,sale,1,0.0,50.0
+1,Fresh Juice,sale,6,0.0,38.0
+1,Cut Fruit,sale,4,0.0,42.0
+1,Pasta Meal,sale,3,0.0,52.0
+2,Milk,arrival,24,0.0,48.0
+2,Milk,sale,18,0.0,48.0
+2,Yogurt,arrival,16,0.0,30.0
+2,Yogurt,sale,11,0.0,30.0
+2,Cheese,arrival,8,0.0,80.0
+2,Cheese,sale,3,0.0,80.0
+2,Butter,arrival,6,0.0,60.0
+2,Butter,sale,5,0.0,60.0
+2,Cream,arrival,9,0.0,38.0
+2,Cream,sale,5,0.0,38.0
+2,White Bread,arrival,32,0.0,30.0
+2,White Bread,sale,8,0.0,30.0
+2,Brown Bread,arrival,16,0.0,36.0
+2,Brown Bread,sale,7,0.0,36.0
+2,Croissant,arrival,13,0.0,35.0
+2,Croissant,sale,2,0.0,35.0
+2,Muffin,arrival,16,0.0,28.0
+2,Muffin,sale,2,0.0,28.0
+2,Bagel,arrival,11,0.0,27.0
+2,Bagel,sale,7,0.0,27.0
+2,Tomato,arrival,27,0.0,22.0
+2,Tomato,sale,11,0.0,22.0
+2,Spinach,arrival,14,0.0,20.0
+2,Spinach,sale,6,0.0,20.0
+2,Lettuce,arrival,14,0.0,25.0
+2,Lettuce,sale,11,0.0,25.0
+2,Banana,arrival,23,0.0,32.0
+2,Banana,sale,12,0.0,32.0
+2,Strawberry,arrival,12,0.0,45.0
+2,Strawberry,sale,5,0.0,45.0
+2,Sandwich,arrival,11,0.0,55.0
+2,Sandwich,sale,5,0.0,55.0
+2,Fresh Salad,expired,5,0.0,0.0
+2,Fresh Salad,arrival,8,0.0,50.0
+2,Fresh Salad,sale,7,0.0,50.0
+2,Fresh Juice,arrival,15,0.0,38.0
+2,Fresh Juice,sale,10,0.0,38.0
+2,Cut Fruit,expired,1,0.0,0.0
+2,Cut Fruit,arrival,9,0.0,42.0
+2,Cut Fruit,sale,3,0.0,42.0
+2,Pasta Meal,arrival,7,0.0,52.0
+2,Pasta Meal,sale,7,0.0,52.0
+3,Milk,sale,6,0.0,48.0
+3,Yogurt,sale,6,0.0,30.0
+3,Cheese,sale,1,0.0,80.0
+3,Butter,sale,1,0.0,60.0
+3,Cream,sale,4,0.0,38.0
+3,White Bread,sale,13,0.0,30.0
+3,Brown Bread,sale,9,0.0,36.0
+3,Croissant,sale,3,0.0,35.0
+3,Muffin,expired,1,0.0,0.0
+3,Muffin,sale,9,0.0,28.0
+3,Bagel,sale,4,0.0,27.0
+3,Tomato,sale,19,0.0,22.0
+3,Spinach,sale,6,0.0,20.0
+3,Lettuce,sale,1,0.0,25.0
+3,Banana,sale,11,0.0,32.0
+3,Strawberry,sale,8,0.0,45.0
+3,Sandwich,sale,6,0.0,55.0
+3,Fresh Salad,sale,1,0.0,50.0
+3,Fresh Juice,sale,5,0.0,38.0
+3,Cut Fruit,sale,6,0.0,42.0
+4,Milk,arrival,27,0.0,48.0
+4,Milk,sale,19,0.0,48.0
+4,Yogurt,arrival,16,0.0,30.0
+4,Yogurt,sale,9,0.0,30.0
+4,Cheese,arrival,8,0.0,80.0
+4,Cheese,sale,4,0.0,80.0
+4,Butter,arrival,6,0.0,60.0
+4,Butter,sale,2,0.0,60.0
+4,Cream,arrival,10,0.0,38.0
+4,Cream,sale,2,0.0,38.0
+4,White Bread,arrival,28,0.0,30.0
+4,White Bread,sale,13,0.0,30.0
+4,Brown Bread,arrival,18,0.0,36.0
+4,Brown Bread,sale,11,0.0,36.0
+4,Croissant,expired,8,0.0,0.0
+4,Croissant,arrival,12,0.0,35.0
+4,Croissant,sale,10,0.0,35.0
+4,Muffin,arrival,12,0.0,28.0
+4,Muffin,sale,3,0.0,28.0
+4,Bagel,arrival,11,0.0,27.0
+4,Bagel,sale,4,0.0,27.0
+4,Tomato,arrival,33,0.0,22.0
+4,Tomato,sale,13,0.0,22.0
+4,Spinach,arrival,15,0.0,20.0
+4,Spinach,sale,10,0.0,20.0
+4,Lettuce,arrival,14,0.0,25.0
+4,Lettuce,sale,3,0.0,25.0
+4,Banana,arrival,24,0.0,32.0
+4,Banana,sale,8,0.0,32.0
+4,Strawberry,arrival,12,0.0,45.0
+4,Strawberry,sale,5,0.0,45.0
+4,Sandwich,arrival,12,0.0,55.0
+4,Sandwich,sale,3,0.0,55.0
+4,Fresh Salad,arrival,10,0.0,50.0
+4,Fresh Salad,sale,4,0.0,50.0
+4,Fresh Juice,arrival,13,0.0,38.0
+4,Fresh Juice,sale,8,0.0,38.0
+4,Cut Fruit,arrival,10,0.0,42.0
+4,Cut Fruit,sale,9,0.0,42.0
+4,Pasta Meal,arrival,7,0.0,52.0
+4,Pasta Meal,sale,3,0.0,52.0
+5,Milk,sale,8,0.0,48.0
+5,Yogurt,sale,6,0.0,30.0
+5,Cheese,sale,1,0.0,80.0
+5,Butter,sale,4,0.0,60.0
+5,Cream,sale,8,0.0,38.0
+5,White Bread,sale,19,0.0,30.0
+5,Brown Bread,sale,7,0.0,36.0
+5,Croissant,sale,2,0.0,35.0
+5,Muffin,expired,4,0.0,0.0
+5,Muffin,sale,8,0.0,28.0
+5,Bagel,sale,4,0.0,27.0
+5,Tomato,sale,17,0.0,22.0
+5,Spinach,sale,7,0.0,20.0
+5,Lettuce,sale,6,0.0,25.0
+5,Banana,sale,16,0.0,32.0
+5,Strawberry,sale,9,0.0,45.0
+5,Sandwich,sale,3,0.0,55.0
+5,Fresh Salad,sale,2,0.0,50.0
+5,Fresh Juice,sale,6,0.0,38.0
+5,Cut Fruit,sale,1,0.0,42.0
+5,Pasta Meal,sale,4,0.0,52.0
+6,Milk,arrival,22,0.0,48.0
+6,Milk,sale,10,0.0,48.0
+6,Yogurt,arrival,15,0.0,30.0
+6,Yogurt,sale,7,0.0,30.0
+6,Cheese,arrival,6,0.0,80.0
+6,Cheese,sale,2,0.0,80.0
+6,Butter,arrival,5,0.0,60.0
+6,Butter,sale,3,0.0,60.0
+6,Cream,arrival,10,0.0,38.0
+6,Cream,sale,2,0.0,38.0
+6,White Bread,arrival,28,0.0,30.0
+6,White Bread,sale,18,0.0,30.0
+6,Brown Bread,arrival,14,0.0,36.0
+6,Brown Bread,sale,3,0.0,36.0
+6,Croissant,arrival,12,0.0,35.0
+6,Croissant,sale,2,0.0,35.0
+6,Muffin,arrival,11,0.0,28.0
+6,Muffin,sale,8,0.0,28.0
+6,Bagel,arrival,8,0.0,27.0
+6,Bagel,sale,5,0.0,27.0
+6,Tomato,arrival,28,0.0,22.0
+6,Tomato,sale,17,0.0,22.0
+6,Spinach,arrival,17,0.0,20.0
+6,Spinach,sale,4,0.0,20.0
+6,Lettuce,arrival,12,0.0,25.0
+6,Lettuce,sale,4,0.0,25.0
+6,Banana,arrival,23,0.0,32.0
+6,Banana,sale,15,0.0,32.0
+6,Strawberry,arrival,12,0.0,45.0
+6,Strawberry,sale,4,0.0,45.0
+6,Sandwich,expired,6,0.0,0.0
+6,Sandwich,arrival,12,0.0,55.0
+6,Sandwich,sale,12,0.0,55.0
+6,Fresh Salad,expired,4,0.0,0.0
+6,Fresh Salad,arrival,11,0.0,50.0
+6,Fresh Salad,sale,3,0.0,50.0
+6,Fresh Juice,arrival,11,0.0,38.0
+6,Fresh Juice,sale,6,0.0,38.0
+6,Cut Fruit,arrival,8,0.0,42.0
+6,Cut Fruit,sale,5,0.0,42.0
+6,Pasta Meal,arrival,7,0.0,52.0
+6,Pasta Meal,sale,2,0.0,52.0
+7,Milk,sale,12,0.0,48.0
+7,Yogurt,sale,9,0.0,30.0
+7,Cheese,sale,5,0.0,80.0
+7,Butter,sale,2,0.0,60.0
+7,Cream,sale,1,0.0,38.0
+7,White Bread,sale,17,0.0,30.0
+7,Brown Bread,sale,7,0.0,36.0
+7,Croissant,sale,7,0.0,35.0
+7,Muffin,sale,7,0.0,28.0
+7,Bagel,sale,2,0.0,27.0
+7,Tomato,sale,14,0.0,22.0
+7,Spinach,sale,9,0.0,20.0
+7,Lettuce,sale,5,0.0,25.0
+7,Banana,sale,8,0.0,32.0
+7,Strawberry,sale,4,0.0,45.0
+7,Fresh Salad,sale,5,0.0,50.0
+7,Fresh Juice,sale,5,0.0,38.0
+7,Cut Fruit,sale,3,0.0,42.0
+7,Pasta Meal,sale,4,0.0,52.0
+8,Milk,arrival,26,0.0,48.0
+8,Milk,sale,10,0.0,48.0
+8,Yogurt,arrival,17,0.0,30.0
+8,Yogurt,sale,8,0.0,30.0
+8,Cheese,arrival,10,0.0,80.0
+8,Cheese,sale,4,0.0,80.0
+8,Butter,arrival,8,0.0,60.0
+8,Butter,sale,5,0.0,60.0
+8,Cream,arrival,9,0.0,38.0
+8,Cream,sale,6,0.0,38.0
+8,White Bread,arrival,31,0.0,30.0
+8,White Bread,sale,14,0.0,30.0
+8,Brown Bread,arrival,15,0.0,36.0
+8,Brown Bread,sale,7,0.0,36.0
+8,Croissant,expired,3,0.0,0.0
+8,Croissant,arrival,12,0.0,35.0
+8,Croissant,sale,2,0.0,35.0
+8,Muffin,arrival,12,0.0,28.0
+8,Muffin,sale,7,0.0,28.0
+8,Bagel,arrival,9,0.0,27.0
+8,Bagel,sale,7,0.0,27.0
+8,Tomato,arrival,27,0.0,22.0
+8,Tomato,sale,13,0.0,22.0
+8,Spinach,arrival,12,0.0,20.0
+8,Spinach,sale,7,0.0,20.0
+8,Lettuce,arrival,13,0.0,25.0
+8,Lettuce,sale,5,0.0,25.0
+8,Banana,arrival,26,0.0,32.0
+8,Banana,sale,13,0.0,32.0
+8,Strawberry,arrival,13,0.0,45.0
+8,Strawberry,sale,9,0.0,45.0
+8,Sandwich,arrival,11,0.0,55.0
+8,Sandwich,sale,8,0.0,55.0
+8,Fresh Salad,expired,3,0.0,0.0
+8,Fresh Salad,arrival,9,0.0,50.0
+8,Fresh Salad,sale,7,0.0,50.0
+8,Fresh Juice,arrival,12,0.0,38.0
+8,Fresh Juice,sale,7,0.0,38.0
+8,Cut Fruit,arrival,9,0.0,42.0
+8,Cut Fruit,sale,3,0.0,42.0
+8,Pasta Meal,arrival,6,0.0,52.0
+8,Pasta Meal,sale,4,0.0,52.0
+9,Milk,sale,14,0.0,48.0
+9,Yogurt,sale,9,0.0,30.0
+9,Cheese,sale,5,0.0,80.0
+9,Butter,sale,0,0.0,60.0
+9,Cream,sale,8,0.0,38.0
+9,White Bread,sale,15,0.0,30.0
+9,Brown Bread,sale,12,0.0,36.0
+9,Croissant,sale,6,0.0,35.0
+9,Muffin,sale,5,0.0,28.0
+9,Bagel,sale,6,0.0,27.0
+9,Tomato,sale,10,0.0,22.0
+9,Spinach,sale,8,0.0,20.0
+9,Lettuce,sale,10,0.0,25.0
+9,Banana,sale,10,0.0,32.0
+9,Strawberry,sale,8,0.0,45.0
+9,Sandwich,sale,3,0.0,55.0
+9,Fresh Salad,sale,0,0.0,50.0
+9,Fresh Juice,sale,5,0.0,38.0
+9,Cut Fruit,sale,6,0.0,42.0
+9,Pasta Meal,sale,3,0.0,52.0
+10,Milk,arrival,25,0.0,48.0
+10,Milk,sale,9,0.0,48.0
+10,Yogurt,arrival,17,0.0,30.0
+10,Yogurt,sale,4,0.0,30.0
+10,Cheese,arrival,8,0.0,80.0
+10,Cheese,sale,5,0.0,80.0
+10,Butter,arrival,7,0.0,60.0
+10,Butter,sale,5,0.0,60.0
+10,Cream,arrival,12,0.0,38.0
+10,Cream,sale,7,0.0,38.0
+10,White Bread,arrival,25,0.0,30.0
+10,White Bread,sale,13,0.0,30.0
+10,Brown Bread,arrival,16,0.0,36.0
+10,Brown Bread,sale,10,0.0,36.0
+10,Croissant,expired,4,0.0,0.0
+10,Croissant,arrival,12,0.0,35.0
+10,Croissant,sale,0,0.0,35.0
+10,Muffin,arrival,14,0.0,28.0
+10,Muffin,sale,8,0.0,28.0
+10,Bagel,arrival,12,0.0,27.0
+10,Bagel,sale,4,0.0,27.0
+10,Tomato,arrival,30,0.0,22.0
+10,Tomato,sale,9,0.0,22.0
+10,Spinach,arrival,16,0.0,20.0
+10,Spinach,sale,6,0.0,20.0
+10,Lettuce,arrival,14,0.0,25.0
+10,Lettuce,sale,7,0.0,25.0
+10,Banana,arrival,27,0.0,32.0
+10,Banana,sale,7,0.0,32.0
+10,Strawberry,arrival,11,0.0,45.0
+10,Strawberry,sale,6,0.0,45.0
+10,Sandwich,arrival,13,0.0,55.0
+10,Sandwich,sale,8,0.0,55.0
+10,Fresh Salad,expired,2,0.0,0.0
+10,Fresh Salad,arrival,10,0.0,50.0
+10,Fresh Salad,sale,5,0.0,50.0
+10,Fresh Juice,arrival,13,0.0,38.0
+10,Fresh Juice,sale,6,0.0,38.0
+10,Cut Fruit,arrival,9,0.0,42.0
+10,Cut Fruit,sale,8,0.0,42.0
+10,Pasta Meal,arrival,7,0.0,52.0
+10,Pasta Meal,sale,4,0.0,52.0
+11,Milk,sale,8,0.0,48.0
+11,Yogurt,sale,9,0.0,30.0
+11,Cheese,sale,4,0.0,80.0
+11,Butter,sale,0,0.0,60.0
+11,Cream,sale,4,0.0,38.0
+11,White Bread,sale,14,0.0,30.0
+11,Brown Bread,sale,5,0.0,36.0
+11,Croissant,sale,8,0.0,35.0
+11,Muffin,sale,6,0.0,28.0
+11,Bagel,sale,5,0.0,27.0
+11,Tomato,sale,13,0.0,22.0
+11,Spinach,sale,6,0.0,20.0
+11,Lettuce,sale,5,0.0,25.0
+11,Banana,sale,8,0.0,32.0
+11,Strawberry,sale,5,0.0,45.0
+11,Sandwich,sale,5,0.0,55.0
+11,Fresh Salad,sale,5,0.0,50.0
+11,Fresh Juice,sale,5,0.0,38.0
+11,Cut Fruit,sale,1,0.0,42.0
+11,Pasta Meal,sale,3,0.0,52.0
+12,Milk,arrival,24,0.0,48.0
+12,Milk,sale,21,0.0,48.0
+12,Yogurt,arrival,15,0.0,30.0
+12,Yogurt,sale,12,0.0,30.0
+12,Cheese,arrival,8,0.0,80.0
+12,Cheese,sale,4,0.0,80.0
+12,Butter,arrival,6,0.0,60.0
+12,Butter,sale,2,0.0,60.0
+12,Cream,arrival,11,0.0,38.0
+12,Cream,sale,5,0.0,38.0
+12,White Bread,arrival,21,0.0,30.0
+12,White Bread,sale,11,0.0,30.0
+12,Brown Bread,arrival,19,0.0,36.0
+12,Brown Bread,sale,11,0.0,36.0
+12,Croissant,expired,4,0.0,0.0
+12,Croissant,arrival,11,0.0,35.0
+12,Croissant,sale,7,0.0,35.0
+12,Muffin,arrival,16,0.0,28.0
+12,Muffin,sale,8,0.0,28.0
+12,Bagel,arrival,10,0.0,27.0
+12,Bagel,sale,8,0.0,27.0
+12,Tomato,arrival,25,0.0,22.0
+12,Tomato,sale,18,0.0,22.0
+12,Spinach,arrival,17,0.0,20.0
+12,Spinach,sale,8,0.0,20.0
+12,Lettuce,arrival,16,0.0,25.0
+12,Lettuce,sale,15,0.0,25.0
+12,Banana,arrival,26,0.0,32.0
+12,Banana,sale,17,0.0,32.0
+12,Strawberry,arrival,13,0.0,45.0
+12,Strawberry,sale,7,0.0,45.0
+12,Sandwich,arrival,13,0.0,55.0
+12,Sandwich,sale,7,0.0,55.0
+12,Fresh Salad,arrival,10,0.0,50.0
+12,Fresh Salad,sale,4,0.0,50.0
+12,Fresh Juice,arrival,12,0.0,38.0
+12,Fresh Juice,sale,10,0.0,38.0
+12,Cut Fruit,arrival,11,0.0,42.0
+12,Cut Fruit,sale,5,0.0,42.0
+12,Pasta Meal,arrival,8,0.0,52.0
+12,Pasta Meal,sale,3,0.0,52.0
+13,Milk,sale,12,0.0,48.0
+13,Yogurt,sale,7,0.0,30.0
+13,Cheese,sale,6,0.0,80.0
+13,Butter,sale,7,0.0,60.0
+13,Cream,sale,6,0.0,38.0
+13,White Bread,sale,10,0.0,30.0
+13,Brown Bread,sale,9,0.0,36.0
+13,Croissant,sale,4,0.0,35.0
+13,Muffin,sale,3,0.0,28.0
+13,Bagel,sale,4,0.0,27.0
+13,Tomato,sale,19,0.0,22.0
+13,Spinach,sale,11,0.0,20.0
+13,Lettuce,sale,8,0.0,25.0
+13,Banana,sale,13,0.0,32.0
+13,Strawberry,sale,6,0.0,45.0
+13,Sandwich,sale,4,0.0,55.0
+13,Fresh Salad,sale,6,0.0,50.0
+13,Fresh Juice,sale,4,0.0,38.0
+13,Cut Fruit,sale,4,0.0,42.0
+13,Pasta Meal,sale,5,0.0,52.0
+14,Milk,arrival,24,0.0,48.0
+14,Milk,sale,13,0.0,48.0
+14,Yogurt,arrival,16,0.0,30.0
+14,Yogurt,sale,11,0.0,30.0
+14,Cheese,arrival,8,0.0,80.0
+14,Cheese,sale,3,0.0,80.0
+14,Butter,arrival,7,0.0,60.0
+14,Butter,sale,3,0.0,60.0
+14,Cream,arrival,10,0.0,38.0
+14,Cream,sale,3,0.0,38.0
+14,White Bread,arrival,31,0.0,30.0
+14,White Bread,sale,13,0.0,30.0
+14,Brown Bread,arrival,17,0.0,36.0
+14,Brown Bread,sale,9,0.0,36.0
+14,Croissant,arrival,12,0.0,35.0
+14,Croissant,sale,4,0.0,35.0
+14,Muffin,arrival,14,0.0,28.0
+14,Muffin,sale,9,0.0,28.0
+14,Bagel,arrival,10,0.0,27.0
+14,Bagel,sale,5,0.0,27.0
+14,Tomato,arrival,34,0.0,22.0
+14,Tomato,sale,11,0.0,22.0
+14,Spinach,arrival,16,0.0,20.0
+14,Spinach,sale,3,0.0,20.0
+14,Lettuce,arrival,13,0.0,25.0
+14,Lettuce,sale,11,0.0,25.0
+14,Banana,arrival,24,0.0,32.0
+14,Banana,sale,8,0.0,32.0
+14,Strawberry,arrival,13,0.0,45.0
+14,Strawberry,sale,5,0.0,45.0
+14,Sandwich,expired,2,0.0,0.0
+14,Sandwich,arrival,15,0.0,55.0
+14,Sandwich,sale,5,0.0,55.0
+14,Fresh Salad,arrival,9,0.0,50.0
+14,Fresh Salad,sale,7,0.0,50.0
+14,Fresh Juice,arrival,15,0.0,38.0
+14,Fresh Juice,sale,6,0.0,38.0
+14,Cut Fruit,expired,2,0.0,0.0
+14,Cut Fruit,arrival,11,0.0,42.0
+14,Cut Fruit,sale,3,0.0,42.0
+14,Pasta Meal,arrival,8,0.0,52.0
+14,Pasta Meal,sale,6,0.0,52.0
+15,Milk,sale,12,0.0,48.0
+15,Yogurt,sale,5,0.0,30.0
+15,Cheese,sale,2,0.0,80.0
+15,Butter,sale,3,0.0,60.0
+15,Cream,sale,5,0.0,38.0
+15,White Bread,sale,16,0.0,30.0
+15,Brown Bread,sale,8,0.0,36.0
+15,Croissant,sale,8,0.0,35.0
+15,Muffin,sale,10,0.0,28.0
+15,Bagel,sale,4,0.0,27.0
+15,Tomato,sale,20,0.0,22.0
+15,Spinach,sale,5,0.0,20.0
+15,Lettuce,sale,3,0.0,25.0
+15,Banana,sale,13,0.0,32.0
+15,Strawberry,sale,5,0.0,45.0
+15,Sandwich,sale,3,0.0,55.0
+15,Fresh Salad,sale,2,0.0,50.0
+15,Fresh Juice,sale,8,0.0,38.0
+15,Cut Fruit,sale,2,0.0,42.0
+15,Pasta Meal,sale,2,0.0,52.0
+16,Milk,arrival,23,0.0,48.0
+16,Milk,sale,12,0.0,48.0
+16,Yogurt,arrival,17,0.0,30.0
+16,Yogurt,sale,5,0.0,30.0
+16,Cheese,arrival,8,0.0,80.0
+16,Cheese,sale,4,0.0,80.0
+16,Butter,arrival,6,0.0,60.0
+16,Butter,sale,2,0.0,60.0
+16,Cream,arrival,12,0.0,38.0
+16,Cream,sale,9,0.0,38.0
+16,White Bread,arrival,33,0.0,30.0
+16,White Bread,sale,14,0.0,30.0
+16,Brown Bread,arrival,17,0.0,36.0
+16,Brown Bread,sale,10,0.0,36.0
+16,Croissant,arrival,12,0.0,35.0
+16,Croissant,sale,8,0.0,35.0
+16,Muffin,arrival,16,0.0,28.0
+16,Muffin,sale,7,0.0,28.0
+16,Bagel,arrival,10,0.0,27.0
+16,Bagel,sale,4,0.0,27.0
+16,Tomato,arrival,29,0.0,22.0
+16,Tomato,sale,13,0.0,22.0
+16,Spinach,arrival,15,0.0,20.0
+16,Spinach,sale,9,0.0,20.0
+16,Lettuce,arrival,13,0.0,25.0
+16,Lettuce,sale,4,0.0,25.0
+16,Banana,arrival,20,0.0,32.0
+16,Banana,sale,11,0.0,32.0
+16,Strawberry,arrival,13,0.0,45.0
+16,Strawberry,sale,3,0.0,45.0
+16,Sandwich,expired,7,0.0,0.0
+16,Sandwich,arrival,13,0.0,55.0
+16,Sandwich,sale,2,0.0,55.0
+16,Fresh Salad,arrival,10,0.0,50.0
+16,Fresh Salad,sale,5,0.0,50.0
+16,Fresh Juice,arrival,13,0.0,38.0
+16,Fresh Juice,sale,5,0.0,38.0
+16,Cut Fruit,expired,6,0.0,0.0
+16,Cut Fruit,arrival,9,0.0,42.0
+16,Cut Fruit,sale,4,0.0,42.0
+16,Pasta Meal,arrival,9,0.0,52.0
+16,Pasta Meal,sale,5,0.0,52.0
+17,Milk,sale,11,0.0,48.0
+17,Yogurt,sale,5,0.0,30.0
+17,Cheese,sale,4,0.0,80.0
+17,Butter,sale,1,0.0,60.0
+17,Cream,sale,3,0.0,38.0
+17,White Bread,sale,21,0.0,30.0
+17,Brown Bread,sale,7,0.0,36.0
+17,Croissant,sale,2,0.0,35.0
+17,Muffin,sale,7,0.0,28.0
+17,Bagel,sale,6,0.0,27.0
+17,Tomato,sale,15,0.0,22.0
+17,Spinach,expired,2,0.0,0.0
+17,Spinach,sale,10,0.0,20.0
+17,Lettuce,sale,4,0.0,25.0
+17,Banana,sale,18,0.0,32.0
+17,Strawberry,sale,2,0.0,45.0
+17,Sandwich,sale,2,0.0,55.0
+17,Fresh Salad,sale,3,0.0,50.0
+17,Fresh Juice,sale,2,0.0,38.0
+17,Cut Fruit,sale,5,0.0,42.0
+17,Pasta Meal,sale,4,0.0,52.0
+18,Milk,arrival,23,0.0,48.0
+18,Milk,sale,15,0.0,48.0
+18,Yogurt,arrival,17,0.0,30.0
+18,Yogurt,sale,5,0.0,30.0
+18,Cheese,arrival,8,0.0,80.0
+18,Cheese,sale,4,0.0,80.0
+18,Butter,arrival,3,0.0,60.0
+18,Butter,sale,4,0.0,60.0
+18,Cream,arrival,11,0.0,38.0
+18,Cream,sale,4,0.0,38.0
+18,White Bread,arrival,29,0.0,30.0
+18,White Bread,sale,13,0.0,30.0
+18,Brown Bread,arrival,14,0.0,36.0
+18,Brown Bread,sale,10,0.0,36.0
+18,Croissant,expired,2,0.0,0.0
+18,Croissant,arrival,10,0.0,35.0
+18,Croissant,sale,4,0.0,35.0
+18,Muffin,arrival,15,0.0,28.0
+18,Muffin,sale,6,0.0,28.0
+18,Bagel,arrival,9,0.0,27.0
+18,Bagel,sale,7,0.0,27.0
+18,Tomato,arrival,35,0.0,22.0
+18,Tomato,sale,14,0.0,22.0
+18,Spinach,arrival,18,0.0,20.0
+18,Spinach,sale,7,0.0,20.0
+18,Lettuce,arrival,14,0.0,25.0
+18,Lettuce,sale,6,0.0,25.0
+18,Banana,arrival,22,0.0,32.0
+18,Banana,sale,10,0.0,32.0
+18,Strawberry,arrival,11,0.0,45.0
+18,Strawberry,sale,5,0.0,45.0
+18,Sandwich,expired,9,0.0,0.0
+18,Sandwich,arrival,12,0.0,55.0
+18,Sandwich,sale,4,0.0,55.0
+18,Fresh Salad,expired,2,0.0,0.0
+18,Fresh Salad,arrival,12,0.0,50.0
+18,Fresh Salad,sale,3,0.0,50.0
+18,Fresh Juice,arrival,14,0.0,38.0
+18,Fresh Juice,sale,11,0.0,38.0
+18,Cut Fruit,arrival,9,0.0,42.0
+18,Cut Fruit,sale,5,0.0,42.0
+18,Pasta Meal,arrival,7,0.0,52.0
+18,Pasta Meal,sale,6,0.0,52.0
+19,Milk,sale,8,0.0,48.0
+19,Yogurt,sale,9,0.0,30.0
+19,Cheese,sale,7,0.0,80.0
+19,Butter,sale,1,0.0,60.0
+19,Cream,sale,2,0.0,38.0
+19,White Bread,sale,16,0.0,30.0
+19,Brown Bread,sale,4,0.0,36.0
+19,Croissant,sale,6,0.0,35.0
+19,Muffin,sale,5,0.0,28.0
+19,Bagel,sale,4,0.0,27.0
+19,Tomato,sale,16,0.0,22.0
+19,Spinach,sale,6,0.0,20.0
+19,Lettuce,sale,6,0.0,25.0
+19,Banana,sale,11,0.0,32.0
+19,Strawberry,expired,6,0.0,0.0
+19,Strawberry,sale,7,0.0,45.0
+19,Sandwich,sale,8,0.0,55.0
+19,Fresh Salad,sale,4,0.0,50.0
+19,Fresh Juice,sale,7,0.0,38.0
+19,Cut Fruit,sale,3,0.0,42.0
+19,Pasta Meal,sale,1,0.0,52.0
+20,Milk,arrival,23,0.0,48.0
+20,Milk,sale,10,0.0,48.0
+20,Yogurt,arrival,18,0.0,30.0
+20,Yogurt,sale,16,0.0,30.0
+20,Cheese,arrival,8,0.0,80.0
+20,Cheese,sale,2,0.0,80.0
+20,Butter,arrival,7,0.0,60.0
+20,Butter,sale,2,0.0,60.0
+20,Cream,arrival,7,0.0,38.0
+20,Cream,sale,5,0.0,38.0
+20,White Bread,arrival,28,0.0,30.0
+20,White Bread,sale,18,0.0,30.0
+20,Brown Bread,arrival,14,0.0,36.0
+20,Brown Bread,sale,14,0.0,36.0
+20,Croissant,arrival,11,0.0,35.0
+20,Croissant,sale,7,0.0,35.0
+20,Muffin,arrival,16,0.0,28.0
+20,Muffin,sale,9,0.0,28.0
+20,Bagel,arrival,9,0.0,27.0
+20,Bagel,sale,9,0.0,27.0
+20,Tomato,arrival,32,0.0,22.0
+20,Tomato,sale,17,0.0,22.0
+20,Spinach,arrival,18,0.0,20.0
+20,Spinach,sale,5,0.0,20.0
+20,Lettuce,arrival,15,0.0,25.0
+20,Lettuce,sale,7,0.0,25.0
+20,Banana,arrival,22,0.0,32.0
+20,Banana,sale,13,0.0,32.0
+20,Strawberry,arrival,12,0.0,45.0
+20,Strawberry,sale,7,0.0,45.0
+20,Sandwich,arrival,13,0.0,55.0
+20,Sandwich,sale,9,0.0,55.0
+20,Fresh Salad,expired,5,0.0,0.0
+20,Fresh Salad,arrival,10,0.0,50.0
+20,Fresh Salad,sale,3,0.0,50.0
+20,Fresh Juice,arrival,13,0.0,38.0
+20,Fresh Juice,sale,6,0.0,38.0
+20,Cut Fruit,expired,1,0.0,0.0
+20,Cut Fruit,arrival,11,0.0,42.0
+20,Cut Fruit,sale,10,0.0,42.0
+20,Pasta Meal,arrival,8,0.0,52.0
+20,Pasta Meal,sale,2,0.0,52.0
+21,Milk,sale,13,0.0,48.0
+21,Yogurt,sale,5,0.0,30.0
+21,Cheese,sale,4,0.0,80.0
+21,Butter,sale,4,0.0,60.0
+21,Cream,sale,2,0.0,38.0
+21,White Bread,sale,10,0.0,30.0
+21,Croissant,sale,4,0.0,35.0
+21,Muffin,sale,3,0.0,28.0
+21,Tomato,sale,16,0.0,22.0
+21,Spinach,expired,5,0.0,0.0
+21,Spinach,sale,8,0.0,20.0
+21,Lettuce,sale,2,0.0,25.0
+21,Banana,sale,11,0.0,32.0
+21,Strawberry,sale,6,0.0,45.0
+21,Sandwich,sale,4,0.0,55.0
+21,Fresh Salad,sale,3,0.0,50.0
+21,Fresh Juice,sale,9,0.0,38.0
+21,Cut Fruit,sale,1,0.0,42.0
+21,Pasta Meal,sale,4,0.0,52.0
+22,Milk,arrival,25,0.0,48.0
+22,Milk,sale,6,0.0,48.0
+22,Yogurt,arrival,14,0.0,30.0
+22,Yogurt,sale,12,0.0,30.0
+22,Cheese,arrival,9,0.0,80.0
+22,Cheese,sale,11,0.0,80.0
+22,Butter,arrival,7,0.0,60.0
+22,Butter,sale,2,0.0,60.0
+22,Cream,arrival,10,0.0,38.0
+22,Cream,sale,7,0.0,38.0
+22,White Bread,arrival,30,0.0,30.0
+22,White Bread,sale,15,0.0,30.0
+22,Brown Bread,arrival,18,0.0,36.0
+22,Brown Bread,sale,12,0.0,36.0
+22,Croissant,arrival,11,0.0,35.0
+22,Croissant,sale,6,0.0,35.0
+22,Muffin,arrival,15,0.0,28.0
+22,Muffin,sale,7,0.0,28.0
+22,Bagel,arrival,10,0.0,27.0
+22,Bagel,sale,9,0.0,27.0
+22,Tomato,arrival,28,0.0,22.0
+22,Tomato,sale,11,0.0,22.0
+22,Spinach,arrival,15,0.0,20.0
+22,Spinach,sale,8,0.0,20.0
+22,Lettuce,arrival,14,0.0,25.0
+22,Lettuce,sale,8,0.0,25.0
+22,Banana,arrival,25,0.0,32.0
+22,Banana,sale,11,0.0,32.0
+22,Strawberry,arrival,10,0.0,45.0
+22,Strawberry,sale,0,0.0,45.0
+22,Sandwich,arrival,14,0.0,55.0
+22,Sandwich,sale,5,0.0,55.0
+22,Fresh Salad,expired,4,0.0,0.0
+22,Fresh Salad,arrival,10,0.0,50.0
+22,Fresh Salad,sale,5,0.0,50.0
+22,Fresh Juice,arrival,15,0.0,38.0
+22,Fresh Juice,sale,6,0.0,38.0
+22,Cut Fruit,arrival,10,0.0,42.0
+22,Cut Fruit,sale,5,0.0,42.0
+22,Pasta Meal,arrival,6,0.0,52.0
+22,Pasta Meal,sale,6,0.0,52.0
+23,Milk,sale,10,0.0,48.0
+23,Yogurt,sale,9,0.0,30.0
+23,Cheese,sale,2,0.0,80.0
+23,Butter,sale,1,0.0,60.0
+23,Cream,sale,7,0.0,38.0
+23,White Bread,sale,15,0.0,30.0
+23,Brown Bread,sale,6,0.0,36.0
+23,Croissant,sale,4,0.0,35.0
+23,Muffin,expired,3,0.0,0.0
+23,Muffin,sale,3,0.0,28.0
+23,Bagel,sale,1,0.0,27.0
+23,Tomato,sale,16,0.0,22.0
+23,Spinach,expired,2,0.0,0.0
+23,Spinach,sale,10,0.0,20.0
+23,Lettuce,sale,8,0.0,25.0
+23,Banana,sale,11,0.0,32.0
+23,Strawberry,expired,3,0.0,0.0
+23,Strawberry,sale,4,0.0,45.0
+23,Sandwich,sale,9,0.0,55.0
+23,Fresh Salad,sale,5,0.0,50.0
+23,Fresh Juice,sale,5,0.0,38.0
+23,Cut Fruit,sale,2,0.0,42.0
+23,Pasta Meal,sale,2,0.0,52.0
+24,Milk,arrival,23,0.0,48.0
+24,Milk,sale,9,0.0,48.0
+24,Yogurt,arrival,19,0.0,30.0
+24,Yogurt,sale,2,0.0,30.0
+24,Cheese,arrival,9,0.0,80.0
+24,Cheese,sale,2,0.0,80.0
+24,Butter,arrival,5,0.0,60.0
+24,Butter,sale,2,0.0,60.0
+24,Cream,arrival,9,0.0,38.0
+24,Cream,sale,3,0.0,38.0
+24,White Bread,arrival,22,0.0,30.0
+24,White Bread,sale,10,0.0,30.0
+24,Brown Bread,arrival,18,0.0,36.0
+24,Brown Bread,sale,8,0.0,36.0
+24,Croissant,expired,1,0.0,0.0
+24,Croissant,arrival,11,0.0,35.0
+24,Croissant,sale,7,0.0,35.0
+24,Muffin,arrival,14,0.0,28.0
+24,Muffin,sale,5,0.0,28.0
+24,Bagel,arrival,10,0.0,27.0
+24,Bagel,sale,2,0.0,27.0
+24,Tomato,arrival,31,0.0,22.0
+24,Tomato,sale,16,0.0,22.0
+24,Spinach,arrival,14,0.0,20.0
+24,Spinach,sale,10,0.0,20.0
+24,Lettuce,arrival,12,0.0,25.0
+24,Lettuce,sale,3,0.0,25.0
+24,Banana,arrival,29,0.0,32.0
+24,Banana,sale,16,0.0,32.0
+24,Strawberry,arrival,13,0.0,45.0
+24,Strawberry,sale,6,0.0,45.0
+24,Sandwich,arrival,13,0.0,55.0
+24,Sandwich,sale,5,0.0,55.0
+24,Fresh Salad,arrival,11,0.0,50.0
+24,Fresh Salad,sale,1,0.0,50.0
+24,Fresh Juice,arrival,13,0.0,38.0
+24,Fresh Juice,sale,8,0.0,38.0
+24,Cut Fruit,expired,3,0.0,0.0
+24,Cut Fruit,arrival,9,0.0,42.0
+24,Cut Fruit,sale,4,0.0,42.0
+24,Pasta Meal,arrival,7,0.0,52.0
+24,Pasta Meal,sale,7,0.0,52.0
+25,Milk,sale,13,0.0,48.0
+25,Yogurt,sale,7,0.0,30.0
+25,Cheese,sale,6,0.0,80.0
+25,Butter,sale,4,0.0,60.0
+25,Cream,sale,3,0.0,38.0
+25,White Bread,sale,12,0.0,30.0
+25,Brown Bread,sale,9,0.0,36.0
+25,Croissant,sale,4,0.0,35.0
+25,Muffin,expired,7,0.0,0.0
+25,Muffin,sale,6,0.0,28.0
+25,Bagel,sale,3,0.0,27.0
+25,Tomato,sale,11,0.0,22.0
+25,Spinach,sale,9,0.0,20.0
+25,Lettuce,sale,7,0.0,25.0
+25,Banana,sale,11,0.0,32.0
+25,Strawberry,sale,7,0.0,45.0
+25,Sandwich,sale,8,0.0,55.0
+25,Fresh Salad,sale,5,0.0,50.0
+25,Fresh Juice,sale,9,0.0,38.0
+25,Cut Fruit,sale,4,0.0,42.0
+26,Milk,arrival,25,0.0,48.0
+26,Milk,sale,15,0.0,48.0
+26,Yogurt,arrival,15,0.0,30.0
+26,Yogurt,sale,10,0.0,30.0
+26,Cheese,arrival,10,0.0,80.0
+26,Cheese,sale,3,0.0,80.0
+26,Butter,arrival,6,0.0,60.0
+26,Butter,sale,3,0.0,60.0
+26,Cream,arrival,10,0.0,38.0
+26,Cream,sale,7,0.0,38.0
+26,White Bread,arrival,29,0.0,30.0
+26,White Bread,sale,15,0.0,30.0
+26,Brown Bread,arrival,18,0.0,36.0
+26,Brown Bread,sale,9,0.0,36.0
+26,Croissant,arrival,11,0.0,35.0
+26,Croissant,sale,5,0.0,35.0
+26,Muffin,arrival,14,0.0,28.0
+26,Muffin,sale,8,0.0,28.0
+26,Bagel,arrival,10,0.0,27.0
+26,Bagel,sale,2,0.0,27.0
+26,Tomato,arrival,30,0.0,22.0
+26,Tomato,sale,19,0.0,22.0
+26,Spinach,arrival,14,0.0,20.0
+26,Spinach,sale,5,0.0,20.0
+26,Lettuce,arrival,14,0.0,25.0
+26,Lettuce,sale,5,0.0,25.0
+26,Banana,arrival,23,0.0,32.0
+26,Banana,sale,19,0.0,32.0
+26,Strawberry,arrival,12,0.0,45.0
+26,Strawberry,sale,2,0.0,45.0
+26,Sandwich,arrival,11,0.0,55.0
+26,Sandwich,sale,6,0.0,55.0
+26,Fresh Salad,expired,5,0.0,0.0
+26,Fresh Salad,arrival,8,0.0,50.0
+26,Fresh Salad,sale,7,0.0,50.0
+26,Fresh Juice,arrival,14,0.0,38.0
+26,Fresh Juice,sale,3,0.0,38.0
+26,Cut Fruit,expired,1,0.0,0.0
+26,Cut Fruit,arrival,11,0.0,42.0
+26,Cut Fruit,sale,6,0.0,42.0
+26,Pasta Meal,arrival,6,0.0,52.0
+26,Pasta Meal,sale,6,0.0,52.0
+27,Milk,sale,10,0.0,48.0
+27,Yogurt,sale,6,0.0,30.0
+27,Cheese,sale,7,0.0,80.0
+27,Butter,sale,2,0.0,60.0
+27,Cream,sale,7,0.0,38.0
+27,White Bread,sale,14,0.0,30.0
+27,Brown Bread,sale,5,0.0,36.0
+27,Croissant,sale,6,0.0,35.0
+27,Muffin,sale,11,0.0,28.0
+27,Bagel,sale,2,0.0,27.0
+27,Tomato,sale,19,0.0,22.0
+27,Spinach,sale,9,0.0,20.0
+27,Lettuce,sale,6,0.0,25.0
+27,Banana,sale,6,0.0,32.0
+27,Strawberry,expired,4,0.0,0.0
+27,Strawberry,sale,7,0.0,45.0
+27,Sandwich,sale,3,0.0,55.0
+27,Fresh Salad,sale,1,0.0,50.0
+27,Fresh Juice,sale,10,0.0,38.0
+27,Cut Fruit,sale,5,0.0,42.0
+28,Milk,arrival,21,0.0,48.0
+28,Milk,sale,12,0.0,48.0
+28,Yogurt,arrival,17,0.0,30.0
+28,Yogurt,sale,9,0.0,30.0
+28,Cheese,arrival,8,0.0,80.0
+28,Cheese,sale,1,0.0,80.0
+28,Butter,arrival,6,0.0,60.0
+28,Butter,sale,3,0.0,60.0
+28,Cream,arrival,10,0.0,38.0
+28,Cream,sale,7,0.0,38.0
+28,White Bread,arrival,24,0.0,30.0
+28,White Bread,sale,12,0.0,30.0
+28,Brown Bread,arrival,13,0.0,36.0
+28,Brown Bread,sale,6,0.0,36.0
+28,Croissant,arrival,13,0.0,35.0
+28,Croissant,sale,2,0.0,35.0
+28,Muffin,arrival,14,0.0,28.0
+28,Muffin,sale,11,0.0,28.0
+28,Bagel,expired,1,0.0,0.0
+28,Bagel,arrival,11,0.0,27.0
+28,Bagel,sale,4,0.0,27.0
+28,Tomato,arrival,31,0.0,22.0
+28,Tomato,sale,8,0.0,22.0
+28,Spinach,arrival,16,0.0,20.0
+28,Spinach,sale,11,0.0,20.0
+28,Lettuce,arrival,13,0.0,25.0
+28,Lettuce,sale,4,0.0,25.0
+28,Banana,arrival,27,0.0,32.0
+28,Banana,sale,9,0.0,32.0
+28,Strawberry,arrival,11,0.0,45.0
+28,Strawberry,sale,6,0.0,45.0
+28,Sandwich,expired,2,0.0,0.0
+28,Sandwich,arrival,11,0.0,55.0
+28,Sandwich,sale,6,0.0,55.0
+28,Fresh Salad,arrival,10,0.0,50.0
+28,Fresh Salad,sale,4,0.0,50.0
+28,Fresh Juice,arrival,14,0.0,38.0
+28,Fresh Juice,sale,2,0.0,38.0
+28,Cut Fruit,arrival,10,0.0,42.0
+28,Cut Fruit,sale,3,0.0,42.0
+28,Pasta Meal,arrival,7,0.0,52.0
+28,Pasta Meal,sale,5,0.0,52.0
+29,Milk,sale,13,0.0,48.0
+29,Yogurt,sale,7,0.0,30.0
+29,Cheese,sale,1,0.0,80.0
+29,Butter,sale,4,0.0,60.0
+29,Cream,sale,7,0.0,38.0
+29,White Bread,sale,12,0.0,30.0
+29,Brown Bread,sale,11,0.0,36.0
+29,Croissant,sale,8,0.0,35.0
+29,Muffin,sale,1,0.0,28.0
+29,Bagel,sale,12,0.0,27.0
+29,Tomato,sale,16,0.0,22.0
+29,Spinach,sale,5,0.0,20.0
+29,Lettuce,sale,4,0.0,25.0
+29,Banana,sale,12,0.0,32.0
+29,Strawberry,sale,7,0.0,45.0
+29,Sandwich,sale,5,0.0,55.0
+29,Fresh Salad,sale,6,0.0,50.0
+29,Fresh Juice,sale,14,0.0,38.0
+29,Cut Fruit,sale,5,0.0,42.0
+29,Pasta Meal,sale,2,0.0,52.0
